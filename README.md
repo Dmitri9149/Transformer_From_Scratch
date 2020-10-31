@@ -1,5 +1,3 @@
-this is still empty repository, I am planning to add the code from Colab within a few days
-
 # Transformer_From_Scratch
 The code (from scratch, Python, MXNET) for Transformer
 
