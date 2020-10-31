@@ -9,6 +9,13 @@ parts of the code and many code examples. With it, I hope, it will be easier to 
 As an example the Transformer is used for English French translation on 
 small amount of data (about 100000 pairs of sentences). 
 
+The learning experiments with different model parameters are collected in /models folder.
+
+Some raw theoretical considerations are in 
+"Diagrams_Transformer....ipynb" file and in
+"Transformer_Values_Keys_Queries.ipynb" file
+
+
 The Transformer is used for experiments with different parameters. 
 
 It is the first part of my project in Transformers. The next steps: 
@@ -18,6 +25,5 @@ It is the first part of my project in Transformers. The next steps:
 3.Modifications of the original Transformer (change in architecture).  
 4.Development of the theory of the Transformers.  
 5.Transformers from scratch in Rust.   
-6.I am planing to add some explanation of the architecture using the ket / bra 
-notations. 
+
 
